@@ -1,2 +1,2 @@
-echo 7
+echo SEVEN
 bash "$(dirname "$0")/count8.sh"
