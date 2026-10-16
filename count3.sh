@@ -1,2 +1,2 @@
-echo 3
+echo THREE
 bash "$(dirname "$0")/count4.sh"
