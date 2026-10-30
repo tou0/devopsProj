@@ -1,2 +1,2 @@
-echo TWO
+echo "TWO(2)"
 bash "$(dirname "$0")/count3.sh"
